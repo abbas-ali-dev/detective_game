@@ -1,0 +1,24 @@
+export 'dart:async';
+export 'dart:convert';
+export 'dart:io';
+export 'dart:math';
+
+export 'package:detective_game/models/enums/character.dart';
+export 'package:detective_game/models/hidden_object_details_model.dart';
+export 'package:detective_game/screens/guess_killer/guess_killer_provider.dart';
+export 'package:detective_game/screens/hidden_objects_room/hidden_objects_room_provider.dart';
+export 'package:detective_game/screens/home/gems_provider.dart';
+export 'package:detective_game/utils/app_theme.dart';
+export 'package:detective_game/utils/constants.dart';
+export 'package:detective_game/utils/my_extensions.dart';
+export 'package:detective_game/utils/my_mockup_data.dart';
+export 'package:detective_game/utils/pref_storage.dart';
+export 'package:detective_game/utils/routes.dart';
+export 'package:detective_game/widgets/buttons.dart';
+export 'package:detective_game/widgets/common_widgets.dart';
+export 'package:detective_game/widgets/text_widgets.dart';
+// export 'package:easy_ads_flutter/easy_ads_flutter.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter_easyloading/flutter_easyloading.dart';
+export 'package:font_awesome_flutter/font_awesome_flutter.dart';
+export 'package:provider/provider.dart';

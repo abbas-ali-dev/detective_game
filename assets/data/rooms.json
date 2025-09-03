@@ -1,0 +1,516 @@
+[
+  {
+    "person": "colonel",
+    "hiddenObjects": [
+      {
+        "name": "Bag",
+        "x": 915,
+        "y": 413,
+        "height": 79,
+        "width": 165,
+        "path": "colonel/bag.png"
+      },
+      {
+        "name": "Photo of a Cactus Plant",
+        "x": 318,
+        "y": 228,
+        "height": 99,
+        "width": 173,
+        "path": "colonel/cactus_photo.png"
+      },
+      {
+        "name": "Clock",
+        "x": 897,
+        "y": 277,
+        "height": 107,
+        "width": 110,
+        "path": "colonel/clock.png"
+      },
+      {
+        "name": "Cactus Plant",
+        "x": 1150,
+        "y": 451,
+        "height": 49,
+        "width": 67,
+        "path": "colonel/cactus_plant.png"
+      },
+      {
+        "name": "Photo of a Flower",
+        "x": 910,
+        "y": 744,
+        "height": 113,
+        "width": 92,
+        "path": "colonel/flower_photo.png"
+      },
+      {
+        "name": "Sleepers",
+        "x": 1200,
+        "y": 819,
+        "height": 89,
+        "width": 36,
+        "path": "colonel/sleepers.png"
+      },
+      {
+        "name": "Mug",
+        "x": 1474,
+        "y": 252,
+        "height": 35,
+        "width": 40,
+        "path": "colonel/mug.png"
+      },
+      {
+        "name": "Bottle",
+        "x": 1513,
+        "y": 214,
+        "height": 34,
+        "width": 68,
+        "path": "colonel/bottle.png"
+      },
+      {
+        "name": "Gift Box",
+        "x": 1694,
+        "y": 294,
+        "height": 53,
+        "width": 39,
+        "path": "colonel/gift_box.png"
+      },
+      {
+        "name": "TODO List",
+        "x": 1019,
+        "y": 383,
+        "height": 53,
+        "width": 130,
+        "path": "colonel/todo_list.png"
+      }
+    ]
+  },
+  {
+    "person": "artist",
+    "hiddenObjects": [
+      {
+        "name": "Paint Box",
+        "x": 485,
+        "y": 837,
+        "height": 87,
+        "width": 72,
+        "path": "artist/paint_box.png"
+      },
+      {
+        "name": "Bulb",
+        "x": 1266,
+        "y": 193,
+        "height": 64,
+        "width": 46,
+        "path": "artist/bulb.png"
+      },
+      {
+        "name": "Diary",
+        "x": 646,
+        "y": 879,
+        "height": 18,
+        "width": 122,
+        "path": "artist/diary.png"
+      },
+      {
+        "name": "Long Brush",
+        "x": 1390,
+        "y": 694,
+        "height": 426,
+        "width": 94,
+        "path": "artist/long_brush.png"
+      },
+      {
+        "name": "Memo",
+        "x": 1012,
+        "y": 530,
+        "height": 112,
+        "width": 99,
+        "path": "artist/memo.png"
+      },
+      {
+        "name": "String",
+        "x": 712,
+        "y": 841,
+        "height": 49,
+        "width": 157,
+        "path": "artist/string.png"
+      }
+    ]
+  },
+  {
+    "person": "cook",
+    "hiddenObjects": [
+      {
+        "name": "Fire Extinguisher",
+        "x": 614,
+        "y": 623,
+        "height": 84,
+        "width": 41,
+        "path": "cook/fire_extinguisher.png"
+      },
+      {
+        "name": "Glass Bowl",
+        "x": 772,
+        "y": 717,
+        "height": 38,
+        "width": 61,
+        "path": "cook/glass_bowl.png"
+      },
+      {
+        "name": "Kettle",
+        "x": 645,
+        "y": 717,
+        "height": 39,
+        "width": 46,
+        "path": "cook/kettle.png"
+      },
+      {
+        "name": "Two adjacent racks on a table",
+        "x": 231,
+        "y": 789,
+        "height": 76,
+        "width": 89,
+        "path": "cook/rack.png"
+      },
+      {
+        "name": "Telephone",
+        "x": 1209,
+        "y": 662,
+        "height": 99,
+        "width": 74,
+        "path": "cook/telephone.png"
+      }
+    ]
+  },
+  {
+    "person": "nurse",
+    "hiddenObjects": [
+      {
+        "name": "Bottle",
+        "x": 127,
+        "y": 881,
+        "height": 40,
+        "width": 22,
+        "path": "nurse/bottle.png"
+      },
+      {
+        "name": "Calendar",
+        "x": 923,
+        "y": 455,
+        "height": 166,
+        "width": 87,
+        "path": "nurse/calendar.png"
+      },
+      {
+        "name": "Cup",
+        "x": 1140,
+        "y": 697,
+        "height": 39,
+        "width": 43,
+        "path": "nurse/cup.png"
+      },
+      {
+        "name": "Injection",
+        "x": 241,
+        "y": 899,
+        "height": 33,
+        "width": 67,
+        "path": "nurse/injection.png"
+      },
+      {
+        "name": "Poster",
+        "x": 763,
+        "y": 427,
+        "height": 174,
+        "width": 85,
+        "path": "nurse/poster.png"
+      },
+      {
+        "name": "Purse",
+        "x": 1247,
+        "y": 461,
+        "height": 22,
+        "width": 22,
+        "path": "nurse/purse.png"
+      },
+      {
+        "name": "Pair of Scissors",
+        "x": 1506,
+        "y": 734,
+        "height": 32,
+        "width": 54,
+        "path": "nurse/scissors.png"
+      },
+      {
+        "name": "Shoe",
+        "x": 1335,
+        "y": 969,
+        "height": 43,
+        "width": 58,
+        "path": "nurse/shoe.png"
+      },
+      {
+        "name": "Socket",
+        "x": 1319,
+        "y": 813,
+        "height": 61,
+        "width": 26,
+        "path": "nurse/socket.png"
+      },
+      {
+        "name": "Stethoscope",
+        "x": 661,
+        "y": 852,
+        "height": 46,
+        "width": 69,
+        "path": "nurse/stethoscope.png"
+      },
+      {
+        "name": "Tape",
+        "x": 258,
+        "y": 1007,
+        "height": 56,
+        "width": 77,
+        "path": "nurse/tape.png"
+      }
+    ]
+  },
+  {
+    "person": "policeman",
+    "hiddenObjects": [
+      {
+        "name": "Bag",
+        "x": 1139,
+        "y": 871,
+        "height": 131,
+        "width": 185,
+        "path": "policeman/bag.png"
+      },
+      {
+        "name": "Glob",
+        "x": 306,
+        "y": 718,
+        "height": 153,
+        "width": 210,
+        "path": "policeman/glob.png"
+      },
+      {
+        "name": "Basket",
+        "x": 1728,
+        "y": 661,
+        "height": 114,
+        "width": 56,
+        "path": "policeman/basket.png"
+      },
+      {
+        "name": "Bookcase",
+        "x": 1138,
+        "y": 414,
+        "height": 44,
+        "width": 63,
+        "path": "policeman/bookcase.png"
+      },
+      {
+        "name": "Bowl",
+        "x": 1491,
+        "y": 620,
+        "height": 37,
+        "width": 32,
+        "path": "policeman/bowl.png"
+      },
+      {
+        "name": "Chain",
+        "x": 810,
+        "y": 854,
+        "height": 89,
+        "width": 33,
+        "path": "policeman/chain.png"
+      },
+      {
+        "name": "Painting",
+        "x": 459,
+        "y": 91,
+        "height": 100,
+        "width": 90,
+        "path": "policeman/painting.png"
+      },
+      {
+        "name": "Radio",
+        "x": 1269,
+        "y": 448,
+        "height": 118,
+        "width": 136,
+        "path": "policeman/radio.png"
+      },
+      {
+        "name": "Sleepers",
+        "x": 840,
+        "y": 902,
+        "height": 104,
+        "width": 50,
+        "path": "policeman/sleepers.png"
+      },
+      {
+        "name": "Tree Block",
+        "x": 460,
+        "y": 767,
+        "height": 132,
+        "width": 104,
+        "path": "policeman/tree_block.png"
+      },
+      {
+        "name": "Gun",
+        "x": 812,
+        "y": 805,
+        "height": 87,
+        "width": 52,
+        "path": "policeman/gun.png"
+      }
+    ]
+  },
+  {
+    "person": "doctor",
+    "hiddenObjects": [
+      {
+        "name": "Chemical Bottle",
+        "x": 1683,
+        "y": 1021,
+        "height": 65,
+        "width": 36,
+        "path": "doctor/chemical_bottle.png"
+      },{
+        "name": "Crocodile Skull",
+        "x": 740,
+        "y": 736,
+        "height": 73,
+        "width": 130,
+        "path": "doctor/crocodile_skull.png"
+      },{
+        "name": "Filler",
+        "x": 379,
+        "y": 854,
+        "height": 55,
+        "width": 41,
+        "path": "doctor/filler.png"
+      },{
+        "name": "Flask",
+        "x": 1059,
+        "y": 910,
+        "height": 33,
+        "width": 23,
+        "path": "doctor/flask.png"
+      },{
+        "name": "Human Skull",
+        "x": 1638,
+        "y": 603,
+        "height": 69,
+        "width": 63,
+        "path": "doctor/human_skull.png"
+      },{
+        "name": "Notebook",
+        "x": 954,
+        "y": 842,
+        "height": 24,
+        "width": 66,
+        "path": "doctor/notebook.png"
+      },{
+        "name": "Pills",
+        "x": 262,
+        "y": 875,
+        "height": 51,
+        "width": 79,
+        "path": "doctor/pills.png"
+      },{
+        "name": "Pot",
+        "x": 1054,
+        "y": 613,
+        "height": 36,
+        "width": 43,
+        "path": "doctor/pot.png"
+      },{
+        "name": "Rabbit",
+        "x": 848,
+        "y": 866,
+        "height": 55,
+        "width": 67,
+        "path": "doctor/rabbit.png"
+      },{
+        "name": "Pill Bottle",
+        "x": 293,
+        "y": 835,
+        "height": 49,
+        "width": 20,
+        "path": "doctor/pill_bottle.png"
+      }
+    ]
+  },
+  {
+    "person": "nun",
+    "hiddenObjects": [
+      {
+        "name": "Curved Seat Stool",
+        "x": 764,
+        "y": 859,
+        "height": 83,
+        "width": 89,
+        "path": "nun/curved_seat_stool.png"
+      },
+      {
+        "name": "Fruit on Table",
+        "x": 1531,
+        "y": 741,
+        "height": 25,
+        "width": 23,
+        "path": "nun/fruit.png"
+      },
+      {
+        "name": "Watering Can",
+        "x": 495,
+        "y": 941,
+        "height": 105,
+        "width": 163,
+        "path": "nun/watering_can.png"
+      },
+      {
+        "name": "Sofa",
+        "x": 987,
+        "y": 695,
+        "height": 78,
+        "width": 95,
+        "path": "nun/sofa.png"
+      },
+      {
+        "name": "Oil Lamp",
+        "x": 1585,
+        "y": 841,
+        "height": 58,
+        "width": 28,
+        "path": "nun/lamp.png"
+      },
+      {
+        "name": "Long Brush",
+        "x": 1733,
+        "y": 674,
+        "height": 299,
+        "width": 61,
+        "path": "nun/long_brush.png"
+      },
+      {
+        "name": "Photo Frame",
+        "x": 1087,
+        "y": 651,
+        "height": 22,
+        "width": 28,
+        "path": "nun/photo_frame.png"
+      },
+      {
+        "name": "Stool",
+        "x": 1184,
+        "y": 726,
+        "height": 50,
+        "width": 39,
+        "path": "nun/stool.png"
+      }
+    ]
+  }
+]

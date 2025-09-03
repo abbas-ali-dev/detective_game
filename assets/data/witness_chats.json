@@ -1,0 +1,158 @@
+[
+  {
+    "witness": "artist",
+    "description": "Laura is an artist. Charming young lady of 20-25. Her paintings are popular because of their power and frankness.\n\"Everything that is happening is so awful! What would you like to know?\", she says in an agitated tone.",
+    "chats": [
+      {
+        "suspect": "doctor",
+        "statement": "The Doctor told me that the Colonel knows absolutely nothing about medicine. At one time he felt ill and began gulping down all the pills he could find! He almost died."
+      },
+      {
+        "suspect": "nun",
+        "statement": "I've heard Anna doesn't live in the monastery any longer. She renounced his faith and left the monastery. Now she can do everything she wants, even dance!"
+      },
+      {
+        "suspect": "cook",
+        "statement": "I don't think it can only be a man who murdered the Colonel. The way he was killed doesn't require great physical strength."
+      },
+      {
+        "suspect": "nurse",
+        "statement": "I witnessed how our arrogant Jacob kissed the hands of the colonel. Obviously, he is very much in his debt!"
+      },
+      {
+        "suspect": "policeman",
+        "statement": "There can be no coincidence that Jacob has invited us all here. I witnessed how Jacob kissed the hands of the colonel. Obviously, he is very much in his debt! All of the guests are connected with the events of twenty years ago."
+      }
+    ]
+  },
+  {
+    "witness": "policeman",
+    "description": "Brave warrior with a gray beard. Loud voice, harsh manners and an unkind look. \"Well, my friend, I'll tell you everything I know!\" he says in a deep voice.",
+    "chats": [
+      {
+        "suspect": "doctor",
+        "statement": "I've known this fellow for a long time now. For many years he really hated other people. But after Laura, the artist, is in his life he's really cheered up!"
+      },
+      {
+        "suspect": "nun",
+        "statement": "Anna is a meek and trusting girl. She's always been like that, and years in the monastery have made it worse. She is too naive!"
+      },
+      {
+        "suspect": "cook",
+        "statement": "This woman is a notorious cheat! None of us is an angel, but the degree of her meanness. it's just unbelievable!"
+      },
+      {
+        "suspect": "artist",
+        "statement": "I saw an amulet that she wears. She is a Bessarabian Gypsy. I served not far away from them. Their women are excellent shooters! They are taught how to use a gun right from early childhood."
+      },
+      {
+        "suspect": "nurse",
+        "statement": "Have you noticed that none of the doors are broken? Nina is the only suspect who has the keys to lock all the doors."
+      }
+    ]
+  },
+  {
+    "witness": "nun",
+    "description": "Anna, an elderly lady, had spent the last twenty years in a monastery. She gives an impression of a suspect who is lost in her own world. \"I'll try to be honest to God and you,\" she says in a quiet voice.",
+    "chats": [
+      {
+        "suspect": "doctor",
+        "statement": "I know that the Doctor is very sensitive about life. He doesn't do abortions and he's an ardent opponent of euthanasia."
+      },
+      {
+        "suspect": "policeman",
+        "statement": "Today, the policeman is very different to the suspect I used to know back in the days. Yes, that was twenty years ago and he has changed for the better."
+      },
+      {
+        "suspect": "cook",
+        "statement": "The cook is a very greedy suspect. She'll do anything for money. That's why I wouldn't be surprised if her money is dirty."
+      },
+      {
+        "suspect": "artist",
+        "statement": "I heard the Artist telling the Doctor that she doesn't know how to shoot. It's probably true; she has such delicate fingers!"
+      },
+      {
+        "suspect": "nurse",
+        "statement": "Once, I accidentally overheard a quarrel between Nina and Colonel. She extorted money from him, but later she denied. It seems that this extortion has been going on for a long while."
+      }
+    ]
+  },
+  {
+    "witness": "nurse",
+    "description": "Nina is the care taker of the colonel. She has a poor sense of humor and is likely to be dishonest.\n\"Ok, who would you like me to talk about?\" she says with a hint of condescension in her tone.",
+    "chats": [
+      {
+        "suspect": "doctor",
+        "statement": "The Doctor isn't as good as likes to make out. Once, because of his indifference, he let a terrible felony happen. Of course, he tried to make amends later, but..."
+      },
+      {
+        "suspect": "nun",
+        "statement": "Twenty years in the monastery had its effect on Anna. Progress doesn't stand still. It's funny to see how Anna is still afraid of inserting a plug into the mains outlet!"
+      },
+      {
+        "suspect":"policeman",
+        "statement": "Yes, when the policeman was younger he used to stray from the straight and narrow quite often. Many times I rescued him from going to prison, and what's more - from the disgrace."
+      },
+      {
+        "suspect":"cook",
+        "statement": "The Cook got her comeuppance! She's a real criminal. She blackmailed Nina for twenty years! It's a pity she asked me to remain silent for that."
+      },
+      {
+        "suspect": "artist",
+        "statement": "Thanks to the Artist, the Doctor looks much better. But if I were him, I wouldn't be so trusting. After all, they've only just met."
+      }
+    ]
+  },
+  {
+    "witness": "cook",
+    "description": "The cook of the castle is a lady in her fifties. She tries her best to behave in a way that befits her noble status.\n\"Yes, my friend? I don't have any secrets from you,\" she says politely inviting you to chat.",
+    "chats": [
+      {
+        "suspect": "doctor",
+        "statement": "The artist has a bad influence on the Doctor. Now, he behaves like a teenager. He should be more discreet at his age."
+      },
+      {
+        "suspect": "nun",
+        "statement": "Anna got her comeuppance. I don't want to talk about her anymore."
+      },
+      {
+        "suspect": "policeman",
+        "statement": "By the way, he is an expert shooter. But he only shoots plates. It's strange why he doesn't like hunting."
+      },
+      {
+        "suspect":"artist",
+        "statement": "She was brought up in the old traditions; and for her, honor is more important than life. But you know, sometimes it feels like it's too difficult to live by these rules."
+      },
+      {
+        "suspect": "nurse",
+        "statement": "She used to work at the hospital and now she knows a lot about medicine. Once, I had an attack and the Doctor wasn't around, and she saved me."
+      }
+    ]
+  },
+  {
+    "witness":"doctor",
+    "description": "A man in his forties. He came here with a young lover, the Artist, and he appeared to be over the moon!\n\"Feel free to ask, don't be shy!\" he invites in a friendly manner.",
+    "chats": [
+      {
+        "suspect": "nun",
+        "statement": "Anna didn't always serve the Lord. She was once involved in a very nasty affair. Kim forced her to retire to a monastery. It was best for everyone, particularly for her."
+      },
+      {
+        "suspect": "policeman",
+        "statement": "Back in the old days, Jacob was very loose with women. There was an awful scandal when the servant fell pregnant by him. Luckily the scandal was covered up."
+      },
+      {
+        "suspect": "cook",
+        "statement": "There was a reason why the Cook was invited. A long time ago she worked for the Colonel. They've known each other for a long time. There is probably something between them."
+      },
+      {
+        "suspect": "artist",
+        "statement": "I met the Artist at the Gypsy's camp when I treated them for the plague. Yes, she's a Gypsy by origin and by spirit, despite her sophisticated manners."
+      },
+      {
+        "suspect": "nurse",
+        "statement": "There are some debts that are difficult to repay. No matter what happens, I'm sure she'll remember what he's done for her."
+      }
+    ]
+  }
+]
